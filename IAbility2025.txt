@@ -1,0 +1,87 @@
+IAbility 2025 - Solución Integral para la Formación, Concienciación y Adopción de la Inteligencia Artificial
+
+El Universo IAbility: Una Metáfora Inspiradora
+
+Año 2034. La sociedad ha cedido su libertad a Tyran, una superinteligencia artificial que ahora decide todos los aspectos de la vida humana. Tres rebeldes, los “GuardIAnes” (Sierra, Rai y VRO), viajan al pasado con la misión de enseñar a las personas a utilizar la inteligencia artificial de manera segura, ética y responsable (Mantra SER).
+
+Descripción General
+
+IAbility es una solución digital diseñada para ayudar a las empresas a adoptar la inteligencia artificial de manera segura y ética. Combina storytelling y gamificación para crear una cultura digital sólida. El programa requiere solo 10 minutos semanales por empleado.
+
+Componentes del Ecosistema IAbility
+
+Evaluación: IAbility Readiness
+
+Evaluación diagnóstica sobre el conocimiento y la percepción de IA.
+
+Clasificación personalizada y mapeo organizacional.
+
+Generación de un informe detallado para diseñar estrategias personalizadas.
+
+Formación: IAbility Skills + IAbility Hub
+
+IAbility Skills: E-learning con tres cursos fundamentales:
+
+“¿Qué esconde la IA?”
+
+“Aplica la IA en tu día a día”
+
+“Conviértete en prompt engineer”
+
+IAbility Hub: Espacios inmersivos como Civil Square, La Casa de la Montaña y La Antigua Imprenta para profundizar en temas de IA.
+
+Concienciación: IAbility AI
+
+Narrativa inmersiva y gamificación con un enfoque en riesgos de la IA (sesgo, privacidad, desinformación).
+
+Refuerzo: IAbility Challenge
+
+Fase de desafío con "Centinelas" que representan diversos riesgos éticos, operativos y legales de la IA.
+
+Adopción: IAbility Labs
+
+Talleres prácticos para identificar casos de uso de IA dentro de la organización.
+
+Servicios Incluidos en el Alcance
+
+Plataforma Digital: Instancias personalizadas, diseño responsive, y soporte funcional.
+
+Servicios de Dinamización: Comunicaciones de lanzamiento y refuerzo.
+
+Servicios de Tutorización: Formación de formadores y soporte durante los talleres.
+
+Seguimiento y Reporting: Informes de progreso y KPIs detallados.
+
+Cumplimiento del Reglamento de IA (AI Act)
+
+IAbility garantiza el cumplimiento del Reglamento de Inteligencia Artificial de la Unión Europea (AI Act). Cubre todos los requisitos normativos y mantiene los materiales actualizados.
+
+Valor Diferencial de IAbility
+
+Metodología Única: "Lluvia fina", storytelling inmersivo, gamificación, y visión optimista.
+
+Experiencia Probada: Implementaciones exitosas en empresas como MAPFRE, Telefónica y Navantia.
+
+Servicio Integral: Acompañamiento experto y solución llave en mano.
+
+Implementación y Resultados Esperados
+
+Plan de Implementación:
+
+Fase inicial (1 mes): Evaluación Readiness.
+
+Despliegue escalonado (8-10 meses): Implementación de fases.
+
+Cierre y evaluación (1 mes).
+
+Resultados Medibles:
+
+Aumento del 40% en el conocimiento sobre IA.
+
+Reducción del 30% en incidentes relacionados con mal uso de IA.
+
+Aumento del 50% en el uso productivo de herramientas de IA.
+
+Resumen Ejecutivo
+
+IAbility es una solución integral que ayuda a las organizaciones a adoptar la inteligencia artificial de manera ética y responsable, combinando formación, gamificación y un acompañamiento experto durante todo el proceso.
